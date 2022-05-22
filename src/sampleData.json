@@ -1,0 +1,20 @@
+{
+    "tracks":[
+       {
+          "trackName":"Synth",
+          "steps":["C4", "D4", null, "E4"]
+       },
+       {
+        "trackName":"Guitar",
+        "steps":["C4", "D4", null, "E4"]
+     },
+     {
+        "trackName":"Clarinet",
+        "steps":["C4", "D2", null, "E4"]
+     },
+     {
+        "trackName":"Alto Sax",
+        "steps":["C4", "D4", null, "E4"]
+     }
+    ]
+ }  
